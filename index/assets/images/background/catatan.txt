@@ -1,0 +1,6 @@
+
+a_ = area 1
+b_ = area 2 
+c_ = area 3
+
+Objek bunga, lebah, & musuh diletakkan diantara lapis 1 dan 2. Objek menempel pada lapis 2.
